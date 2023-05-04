@@ -2,15 +2,19 @@
 
 A new Flutter project.
 
-## Getting Started
+-- Praktikum 1
+![Prak 1](images/prak1.png)
+Penjelasan :
+    1. on Tap() : akan bertambah 1 angka apabila diklik 1 kali pada gambar atau button.
+    
+    2. onDoubleTap() : akan bertambah 1 angka apabila diklik 2 kali pada gambar atau button.
 
-This project is a starting point for a Flutter application.
+    3. onLongPress() : akan bertambah 1 angkaapabila diklik dan ditahan pada gambar atau button.
 
-A few resources to get you started if this is your first Flutter project:
+-- Praktikum 2
+![Prak 2](images/prak2a.png)
+![Prak 2](images/prak2b.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-- Praktikum 3
+![Prak 3](images/prak3a.png)
+![Prak 3](images/prak3b.png)
